@@ -1,0 +1,39 @@
+name,type,lat,lng,subzone,planning_area
+Central Business District,CR,1.286768414387322,103.85452859811022,clifford pier,downtown core
+Jurong Lake District,CR,1.3340851937252969,103.73451290700358,lakeside (business),jurong east
+Seletar Regional Centre,CR,1.40943507375581,103.866819823979,seletar aerospace park,seletar
+Tampines Regional Centre,CR,1.353180098998845,103.94518782505514,tampines east,tampines
+Woodlands Regional Centre,CR,1.4367480296002553,103.78648452433363,woodlands regional centre,woodlands
+Airport Logistics Park,IEBP,1.375855948014156,104.00261713276852,changi airport,changi
+Changi Aviation Park,IEBP,1.368802504488171,104.00102602988991,changi airport,changi
+Changi Business Park,IEBP,1.3351233377063303,103.96512734569824,xilin,tampines
+Defu Industrial Park,IEPB,1.3554574266919366,103.89507433076788,defu industrial park,hougang
+International Business Park,IEBP,1.3279106942717798,103.74740491856069,international business park,jurong east
+Jurong Industrial Estate,IEBP,1.3254509028953465,103.69542081107878,joo koon,pioneer
+Jurong Innovation District,IEBP,1.3532932825547128,103.69489595840736,cleantech,western water catchment
+Lorong Halus Industrial Park,IEBP,1.3753859433463471,103.90211244682443,kangkar,hougang
+Loyang Industrial Estate,IEBP,1.3834519517765969,103.97442538152416,loyang west,pasir ris
+one-north,IEBP,1.2988137196123122,103.78893793582031,one north,queenstown
+Pasir Ris Wafer Fab Park,IEBP,1.3807596105297242,103.9309877264204,pasir ris wafer fab park,pasir ris
+Punggol Digital District,IEBP,1.4112887957330322,103.91169675484642,punggol canal,punggol
+Seletar Aerospace Park,IEBP,1.40943507375581,103.866819823979,seletar aerospace park,seletar
+Sengkang West,IEBP,1.3935271651895418,103.86189349867557,sengkang west,sengkang
+Senoko Industrial Estate,IEBP,1.4586834996371842,103.7990614281833,senoko north,sembawang
+Singapore Science Park I,IEBP,1.2906097078777858,103.78800518013368,kent ridge,queenstown
+Singapore Science Park II,IEBP,1.2881212406706988,103.78133184384585,pasir panjang 1,queenstown
+Sungei Kadut,IEBP,1.4158953727438497,103.7522369054862,pang sua,sungei kadut
+Tuas Industrial Estate,IEBP,1.295368945143757,103.62578743391794,tuas view,tuas
+Tuas Medical Park,IEBP,1.2888904946615136,103.62668866467251,tuas view extension,tuas
+Alexandra,BN,1.2874707311048603,103.8043497446401,alexandra hill,bukit merah
+Bishan,BN,1.3508508706556437,103.848220541711,bishan east,bishan
+Changi East Urban District,BN,1.320497421694186,103.99216684090142,changi airport,changi
+Buona Vista,BN,1.3064785176780969,103.79007848403519,one north,queenstown
+Novena,BN,1.320016219162997,103.84339509567327,moulmein,novena
+Paya Lebar Central,BN,1.3181642555586108,103.89350043510498,geylang east,geylang
+Serangoon,BN,1.351253959799508,103.8722963753547,serangoon central,serangoon
+Tao Payoh,BN,1.3325901802672675,103.84822378826965,toa payoh central,toa payoh
+Nanyang Technological University,IHL,1.3489064085832705,103.68264362732477,murai,western water catchment
+National University of Singapore,IHL,1.2957699114196053,103.77599523066463,national university of s'pore,queenstown
+Singapore Institute of Technology,IHL,1.3014721033245824,103.78052022642065,dover,queenstown
+Singapore Univeristy of Technology and Design,IHL,1.3413984036057474,103.96356396717968,xilin,tampines
+Singapore Management University,IHL,1.2960689033343546,103.85031873011692,bras basah,museum

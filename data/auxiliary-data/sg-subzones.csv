@@ -1,0 +1,332 @@
+name,area_size,population,planning_area
+ang mo kio town centre,0.3169,4810,ang mo kio
+cheng san,0.9557,28070,ang mo kio
+chong boon,1.0786,26500,ang mo kio
+kebun bahru,1.0464,22620,ang mo kio
+sembawang hills,0.8945,6850,ang mo kio
+shangri-la,0.6879,15960,ang mo kio
+tagore,3.3342,7950,ang mo kio
+townsville,0.5464,21140,ang mo kio
+yio chu kang,0.9094,20,ang mo kio
+yio chu kang east,1.8619,4200,ang mo kio
+yio chu kang north,1.4645,0,ang mo kio
+yio chu kang west,0.8461,24150,ang mo kio
+bayshore,2.5068,7450,bedok
+bedok north,3.2037,81840,bedok
+bedok reservoir,2.3793,25470,bedok
+bedok south,2.9973,46690,bedok
+frankel,4.2971,34490,bedok
+kaki bukit,2.821,37150,bedok
+kembangan,2.3873,37460,bedok
+siglap,1.0865,6440,bedok
+bishan east,1.7945,28310,bishan
+marymount,1.9641,29620,bishan
+upper thomson,3.8495,29390,bishan
+liu fang,2.3389,10,boon lay
+samulun,1.9286,10,boon lay
+shipyard,2.1043,0,boon lay
+tukang,1.8813,10,boon lay
+brickworks,1.2317,19820,bukit batok
+bukit batok central,0.8003,27290,bukit batok
+bukit batok east,0.3802,12690,bukit batok
+bukit batok south,1.8064,14930,bukit batok
+bukit batok west,0.5275,15000,bukit batok
+gombak,2.4563,9930,bukit batok
+guilin,1.0851,12940,bukit batok
+hillview,1.9936,19300,bukit batok
+hong kah north,0.8592,26150,bukit batok
+alexandra hill,1.0304,13490,bukit merah
+alexandra north,0.2937,2620,bukit merah
+bukit ho swee,0.5517,14390,bukit merah
+bukit merah,0.4117,1110,bukit merah
+city terminals,3.4441,20,bukit merah
+depot road,0.4423,6540,bukit merah
+everton park,0.6357,7810,bukit merah
+henderson hill,0.5953,13320,bukit merah
+kampong tiong bahru,0.3653,9010,bukit merah
+maritime square,2.6632,3620,bukit merah
+redhill,0.3876,10620,bukit merah
+singapore general hospital,0.533,10,bukit merah
+telok blangah drive,1.455,19320,bukit merah
+telok blangah rise,0.5335,12150,bukit merah
+telok blangah way,0.2768,9230,bukit merah
+tiong bahru,0.4481,12890,bukit merah
+tiong bahru station,0.3508,15120,bukit merah
+bangkit,0.7632,22270,bukit panjang
+dairy farm,1.2359,6940,bukit panjang
+fajar,0.6685,27820,bukit panjang
+jelebu,0.9112,31310,bukit panjang
+nature reserve,4.1413,3850,bukit panjang
+saujana,0.675,25920,bukit panjang
+senja,0.6249,20170,bukit panjang
+anak bukit,2.7733,21870,bukit timah
+coronation road,1.4251,6690,bukit timah
+farrer court,0.5588,6180,bukit timah
+hillcrest,2.6365,9470,bukit timah
+holland road,3.3872,10840,bukit timah
+leedon park,2.0385,6440,bukit timah
+swiss club,3.4685,5340,bukit timah
+ulu pandan,1.2271,11020,bukit timah
+central water catchment,37.1587,0,central water catchment
+changi airport,35.04,10,changi
+changi point,0.9032,540,changi
+changi west,4.7566,1300,changi
+changi bay,1.9119,0,changi bay
+choa chu kang central,1.0957,22530,choa chu kang
+choa chu kang north,1.0886,31930,choa chu kang
+keat hong,1.1438,38180,choa chu kang
+peng siang,0.8627,34720,choa chu kang
+teck whye,1.0032,24320,choa chu kang
+yew tee,0.9232,40390,choa chu kang
+clementi central,0.7492,14000,clementi
+clementi north,0.9911,28810,clementi
+clementi west,0.6975,15260,clementi
+clementi woods,1.058,16000,clementi
+faber,0.9482,5360,clementi
+pandan,1.2016,20,clementi
+sunset way,0.9639,5650,clementi
+toh tuck,2.078,20,clementi
+west coast,0.7226,6870,clementi
+anson,0.1032,80,downtown core
+bayfront subzone,0.5212,0,downtown core
+bugis,0.2802,890,downtown core
+cecil,0.1966,260,downtown core
+central subzone,0.9793,880,downtown core
+city hall,0.7106,80,downtown core
+clifford pier,0.2618,0,downtown core
+marina centre,0.887,10,downtown core
+maxwell,0.0637,0,downtown core
+nicoll,0.4792,290,downtown core
+phillip,0.0394,10,downtown core
+raffles place,0.1888,40,downtown core
+tanjong pagar,0.1455,670,downtown core
+aljunied,2.9615,39990,geylang
+geylang east,2.5784,29920,geylang
+kallang way,0.9635,30,geylang
+kampong ubi,1.878,11800,geylang
+macpherson,1.2634,28360,geylang
+defu industrial park,1.9741,20,hougang
+hougang central,0.4417,4720,hougang
+hougang east,0.8427,24920,hougang
+hougang west,1.3289,45460,hougang
+kangkar,1.0074,32290,hougang
+kovan,1.9486,24810,hougang
+lorong ah soo,1.5155,32320,hougang
+lorong halus,1.3335,0,hougang
+tai seng,1.7962,13830,hougang
+trafalgar,1.7444,49200,hougang
+international business park,0.485,10,jurong east
+jurong gateway,0.5546,450,jurong east
+jurong port,2.2215,0,jurong east
+jurong river,2.561,10,jurong east
+lakeside business,1.131,0,jurong east
+lakeside leisure,1.9771,1070,jurong east
+penjuru crescent,2.7617,10,jurong east
+teban gardens,3.1876,18530,jurong east
+toh guan,0.7469,14590,jurong east
+yuhua east,0.9248,24770,jurong east
+yuhua west,0.7761,19160,jurong east
+boon lay place,0.9063,29340,jurong west
+chin bee,1.2879,0,jurong west
+hong kah,1.7935,53890,jurong west
+jurong west central,1.4045,63760,jurong west
+kian teck,2.0982,40,jurong west
+safti,1.5245,0,jurong west
+taman jurong,1.4843,39920,jurong west
+wenya,1.9749,8280,jurong west
+yunnan,2.2063,67500,jurong west
+bendemeer,1.3768,37570,kallang
+boon keng,0.4109,11790,kallang
+crawford,0.236,8380,kallang
+geylang bahru,0.7355,11280,kallang
+kallang bahru,0.8397,20,kallang
+kampong bugis,0.7422,920,kallang
+kampong java,1.052,10530,kallang
+lavender,0.7569,9690,kallang
+tanjong rhu,2.0506,11110,kallang
+lim chu kang,17.2813,110,lim chu kang
+mandai east,7.2358,0,mandai
+mandai estate,0.1431,2090,mandai
+mandai west,4.3884,0,mandai
+marina south,1.3246,0,marina south
+east coast,0.5855,0,marine parade
+katong,1.079,9360,marine parade
+marina east,1.5842,0,marine parade
+marine parade,1.16,26880,marine parade
+mountbatten,1.7119,9980,marine parade
+bras basah,0.2188,10,museum
+dhoby ghaut,0.222,320,museum
+fort canning,0.3887,190,museum
+cairnhill,0.4515,3880,newton
+goodwood park,0.3513,1260,newton
+istana negara,0.5435,60,newton
+monk's hill,0.1727,1030,newton
+newton circus,0.2135,250,newton
+orange grove,0.3362,1790,newton
+north-eastern islands,45.3804,50,north-eastern islands
+balestier,1.9266,32430,novena
+dunearn,1.2299,3960,novena
+malcolm,1.3191,2950,novena
+moulmein,1.3475,9300,novena
+mount pleasant,3.1449,690,novena
+boulevard,0.4606,410,orchard
+somerset,0.3294,140,orchard
+tanglin,0.1675,370,orchard
+china square,0.133,1430,outram
+chinatown,0.5872,10490,outram
+pearl's hill,0.5616,6120,outram
+people's park,0.0914,290,outram
+flora drive,0.945,14680,pasir ris
+loyang east,0.9721,2140,pasir ris
+loyang west,2.1047,220,pasir ris
+pasir ris central,1.5115,32240,pasir ris
+pasir ris drive,1.6398,54420,pasir ris
+pasir ris park,1.6711,7620,pasir ris
+pasir ris wafer fab park,4.6083,10,pasir ris
+pasir ris west,1.5834,35790,pasir ris
+airport road,0.4829,0,paya lebar
+paya lebar east,2.2592,10,paya lebar
+paya lebar north,1.2872,30,paya lebar
+paya lebar west,0.6017,0,paya lebar
+plab,7.0543,0,paya lebar
+benoi sector,2.0426,10,pioneer
+gul basin,1.7493,10,pioneer
+gul circle,3.2604,20,pioneer
+joo koon,2.3494,30,pioneer
+pioneer sector,2.7274,0,pioneer
+coney island,1.1973,0,punggol
+matilda,1.3497,52200,punggol
+northshore,1.3708,460,punggol
+punggol canal,1.2524,0,punggol
+punggol field,1.3787,48960,punggol
+punggol town centre,1.1909,22260,punggol
+waterway east,1.4892,50580,punggol
+commonwealth,0.3105,7000,queenstown
+dover,1.3803,11080,queenstown
+ghim moh,0.4856,13850,queenstown
+holland drive,0.4707,12680,queenstown
+kent ridge,1.8269,80,queenstown
+margaret drive,1.0266,16090,queenstown
+mei chin,0.7487,15570,queenstown
+national university of singapore,1.7535,240,queenstown
+one north,2.0035,720,queenstown
+pasir panjang 1,1.0848,4510,queenstown
+pasir panjang 2,0.8532,3060,queenstown
+port,7.4776,120,queenstown
+queensway,0.6289,270,queenstown
+singapore polytechnic,0.9475,100,queenstown
+tanglin halt,0.5573,10590,queenstown
+institution hill,0.3926,3150,river valley
+leonie hill,0.3685,3120,river valley
+one tree hill,0.3407,2070,river valley
+oxley,0.2008,1490,river valley
+paterson,0.1731,240,river valley
+bencoolen,0.1707,1310,rochor
+farrer park,0.2181,2660,rochor
+kampong glam,0.1713,120,rochor
+little india,0.2783,3270,rochor
+mackenzie,0.0557,110,rochor
+mount emily,0.194,1630,rochor
+rochor canal,0.1202,0,rochor
+selegie,0.0496,210,rochor
+sungei road,0.1163,2050,rochor
+victoria,0.2143,1760,rochor
+pulau punggol barat,2.0449,0,seletar
+pulau punggol timor,1.2117,0,seletar
+seletar,3.7327,280,seletar
+seletar aerospace park,3.623,20,seletar
+admiralty,1.2617,13920,sembawang
+sembawang central,0.9614,34800,sembawang
+sembawang east,0.7581,17340,sembawang
+sembawang north,1.3945,25540,sembawang
+sembawang springs,1.0994,9090,sembawang
+sembawang straits,1.3034,1910,sembawang
+senoko north,2.2373,10,sembawang
+senoko south,1.7434,30,sembawang
+the wharves,1.6034,0,sembawang
+anchorvale,1.4967,48120,sengkang
+compassvale,1.0932,20960,sengkang
+fernvale,2.3916,58800,sengkang
+lorong halus north,0.9249,0,sengkang
+rivervale,1.569,59700,sengkang
+sengkang town centre,1.4605,61790,sengkang
+sengkang west,1.6671,10,sengkang
+lorong chuan,1.1801,8490,serangoon
+seletar hills,2.3307,14700,serangoon
+serangoon central,1.0619,24760,serangoon
+serangoon garden,3.0232,36080,serangoon
+serangoon north,0.6847,15940,serangoon
+serangoon north ind estate,0.9214,10,serangoon
+upper paya lebar,0.8986,16920,serangoon
+pulau seletar,0.4189,0,simpang
+simpang north,3.0234,0,simpang
+simpang south,1.7011,0,simpang
+tanjong irau,0.4154,0,simpang
+boat quay,0.1608,130,singapore river
+clarke quay,0.2902,130,singapore river
+robertson quay,0.5066,3010,singapore river
+sentosa,4.7658,1940,southern islands
+southern group,1.4034,0,southern islands
+straits view,0.787,0,straits view
+gali batu,5.1861,30,sungei kadut
+kranji,2.772,10,sungei kadut
+pang sua,2.1754,20,sungei kadut
+reservoir view,2.525,20,sungei kadut
+turf club,3.2914,670,sungei kadut
+simei,2.7775,39450,tampines
+tampines east,4.3437,130980,tampines
+tampines north,2.5431,8040,tampines
+tampines west,3.4752,79670,tampines
+xilin,7.6216,1760,tampines
+chatsworth,1.3462,6890,tanglin
+nassim,2.0961,9520,tanglin
+ridout,1.9518,1520,tanglin
+tyersall,2.1583,3880,tanglin
+brickland,0.7847,0,tengah
+forest hill,1.0464,10,tengah
+garden,0.7808,0,tengah
+park,1.4592,0,tengah
+plantation,0.8991,0,tengah
+tengah industrial estate,2.3933,0,tengah
+bidadari,0.5725,0,toa payoh
+boon teck,0.4187,14660,toa payoh
+braddell,0.4462,9810,toa payoh
+joo seng,1.0572,8150,toa payoh
+kim keat,0.3698,7960,toa payoh
+lorong 8 toa payoh,0.4397,7160,toa payoh
+pei chun,0.4114,10360,toa payoh
+potong pasir,0.6391,11720,toa payoh
+sennett,0.8678,7190,toa payoh
+toa payoh central,1.1073,28020,toa payoh
+toa payoh west,1.0373,14360,toa payoh
+woodleigh,0.8134,2450,toa payoh
+tengeh,2.2512,0,tuas
+tuas bay,4.0485,10,tuas
+tuas north,3.2601,30,tuas
+tuas promenade,3.1863,10,tuas
+tuas view,4.472,10,tuas
+tuas view extension,15.4664,10,tuas
+jurong island and bukom,35.4411,10,western islands
+semakau,3.2763,0,western islands
+sudong,3.7807,0,western islands
+bahar,0.5001,0,western water catchment
+cleantech,0.6976,0,western water catchment
+murai,68.4308,640,western water catchment
+greenwood park,1.2813,40,woodlands
+midview,0.9364,35270,woodlands
+north coast,2.4067,12100,woodlands
+senoko west,0.9059,20,woodlands
+woodgrove,1.6642,33790,woodlands
+woodlands east,2.5535,98980,woodlands
+woodlands regional centre,0.5957,10,woodlands
+woodlands south,1.576,41000,woodlands
+woodlands west,1.6486,33910,woodlands
+khatib,1.4329,10250,yishun
+lower seletar,8.4055,18660,yishun
+nee soon,2.2068,890,yishun
+northland,1.511,28000,yishun
+springleaf,2.2092,4370,yishun
+yishun central,0.4364,2620,yishun
+yishun east,1.7693,60670,yishun
+yishun south,1.3402,42240,yishun
+yishun west,1.5178,53910,yishun
