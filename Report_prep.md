@@ -31,6 +31,26 @@ Let's use this to record the findings, decisions taken, and their justifications
 | long                 | Some values outside singapore.                               |                                                              | Drop records with invalid (outside SG) values.               |                         |                                                              |
 | elevation            | 0 for all values                                             |                                                              | Drop the column                                              |                         |                                                              |
 | subzone              | Some missing values.                                         | Try to fill `null` values by copying value from the same property name. | Drop records with null even after cleaning. Target encode to average price per sq. ft. for the subzone. | Standard normalization. | Subzone is critical location data which could tell us how *prime* a location is. |
-| planning_area        | Some missing values.                                         |                                                              | Drop column.                                                 |                         | Subzone is a more granular location indicator, so relying on that to convey the impact of lcoation on property price. Within a planning_area there may be high variance of prices per sq ft, demand, etc. |
-| price                |                                                              |                                                              | Encode as it is.                                             | Standard normalization. |                                                              |
+| planning_area        | Some missing values.                                         |                                                              | Drop column.                                                 |                         | Subzone is a more granular location indicator, so we are relying on that to convey the impact of lcoation on property price. Within a planning_area there may be high variance of prices per sq ft, demand, etc. |
+| price                | Some values are 0.                                           | Remove records with 0/null price                             | Encode as it is.                                             | Standard normalization. |                                                              |
+
+
+
+## Step 1.5: Data augmentation - creating new features
+
+Ways to use lat/long to create useful features:
+
+1. Some form of target encoding on nearby property prices per sq ft. 
+   - How do we define `nearby`? Just all prices within a radius?  Or within the closest cluster?
+     - We can try to get a price/sq.ft. heat map on location based on lat long. That can give us insight what kind of clustering could work.
+2. One option could be to learn this price/sq ft landscape as a function of lat long given the data we have. If it is a fairly general/smooth curve, it could capture the price/sq ft as a function of location pretty well. 
+   - But isn't this equivalent to leaving the lat long as it is in the dataset and run the model?
+     - The relationship between lat/long and price/sq ft will necessarily be a polynomial relationship. But the relationship between property price (target) and price/sq ft based on lat/long will be linear. By pre training a polynomial model on lat/long, we can keep the final model simpler/avoid polynomial features there, since everything else there is going to be either directly or indirectly proportional to the property price.
+
+On other aux data. We are already capturing 
+
+1.  subzone level target price/sq ft
+2.  property level target price/sq ft
+
+Does it then make sense to include data on schools etc in proximity to the location?
 
