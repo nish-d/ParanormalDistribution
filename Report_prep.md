@@ -49,7 +49,10 @@ Ways to use lat/long to create useful features:
 On other aux data. We are already capturing 
 
 1.  subzone level target price/sq ft
-2.  property level target price/sq ft
+2.  property_name, address level target price/sq ft
+3.  Label encode property type
+4.  One hot encode furnishing, tenure
+5.  Subtract built year from 2022
 
 Does it then make sense to include data on schools etc in proximity to the location?
 
