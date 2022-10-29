@@ -30,7 +30,7 @@ def get_average_price_psf_within_bbox(lat, lng, bbox_side, df):
     bbox = get_bounding_square(lat, lng, bbox_side)
     filtered_df = df[(df.lat < bbox[0]) & (df.lat > bbox[1]) & (df.lng < bbox[2]) & (df.lng > bbox[3])]
     
-    return filtered_df['price_per_sq_ft'].mean().astype(np.int32)
+    return filtered_df['price_per_sq_ft'].mean()#.astype(np.int32)
 
 
 '''
@@ -43,7 +43,7 @@ def add_price_psf_from_lat_long(input_df, new_column_name='price_psf_lat_lng', s
     df = df[df.lat<=1.47]
     df = df[df.size_sqft>0]
     df['price_per_sq_ft'] = df['price']/df['size_sqft']
-    df['price_per_sq_ft'] = df['price_per_sq_ft'].astype(np.int32)
+    df['price_per_sq_ft'] = df['price_per_sq_ft'].astype(np.float64)
     input_df[new_column_name] = df.apply(lambda x: get_average_price_psf_within_bbox(x['lat'], x['lng'], size, df), axis=1)
 
 def add_price_psf_from_lat_long_test(input_df, out_df, new_column_name='price_psf_lat_lng', size = 1000):
@@ -52,5 +52,5 @@ def add_price_psf_from_lat_long_test(input_df, out_df, new_column_name='price_ps
     df = df[df.lat<=1.47]
     df = df[df.size_sqft>0]
     df['price_per_sq_ft'] = df['price']/df['size_sqft']
-    df['price_per_sq_ft'] = df['price_per_sq_ft'].astype(np.int32)
+    df['price_per_sq_ft'] = df['price_per_sq_ft'].astype(np.float64)
     out_df[new_column_name] = out_df.apply(lambda x: get_average_price_psf_within_bbox(x['lat'], x['lng'], size, df), axis=1)
